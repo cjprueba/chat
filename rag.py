@@ -15,6 +15,7 @@ import json
 import os
 import datetime
 
+os.environ["OPENAI_API_KEY"]=st.secrets["KEY"]
 
 # Initialize the tool allowing for any PDF content search if the path is provided during execution
 
@@ -24,7 +25,7 @@ import datetime
 
 # Initialize the tool with a specific PDF path for exclusive search within that document
 #tool = PDFSearchTool(pdf='C:/users/cjunn/Downloads/CONTRATO DE TRABAJO #1.pdf')
-tool = TXTSearchTool(txt='D:/PA/REPOSITORIOS/PERSONALES/RAG-CREWAI/toku.txt')
+tool = TXTSearchTool(txt='toku.txt')
 
 
 
