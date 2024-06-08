@@ -1,0 +1,37 @@
+Tienda: Toku Toku Imporados
+
+Horario: De 7 a 17 hs.
+
+Ubicacion: Shopping Paris, segundo piso, Ciudad del Este, Py.
+
+Productos:
+
+- Auriculares Inalámbricos XYZ
+Precio: $49.99
+
+- Smartphone ABC Pro
+Precio: $699.00
+
+- Laptop DEF Ultra
+Precio: $1,299.00
+
+- Reloj Inteligente GHI
+Precio: $199.99
+
+- Cámara Digital JKL
+Precio: $599.00
+
+- Tablet MNO Plus
+Precio: $399.00
+
+- Altavoz Bluetooth PQR
+Precio: $89.99
+
+- Televisor 4K STU
+Precio: $999.00
+
+- Consola de Videojuegos VWX
+Precio: $499.00
+
+- Cafetera Inteligente YZ
+Precio: $149.99
